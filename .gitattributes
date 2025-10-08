@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+results/glm_results/glm_res_PFC_bin_size_10_bin_size_vel_3_sp_100_sv_40.npy filter=lfs diff=lfs merge=lfs -text
+results/glm_results/glm_res_CA1_bin_size_10_bin_size_vel_3_sp_100_sv_40.npy filter=lfs diff=lfs merge=lfs -text
