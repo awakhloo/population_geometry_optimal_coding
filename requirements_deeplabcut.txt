@@ -1,0 +1,7 @@
+deeplabcut==2.3.10
+tensorflow==2.12.1
+pandas
+numpy
+pillow
+tensorpack
+tf_slim

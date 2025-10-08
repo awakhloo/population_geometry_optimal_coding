@@ -1,0 +1,13 @@
+Measure,Group 1,Group 2,t,$p$,$p$ (adj.)
+dimension,pix,V4,12.5,4.8e-06,5.7e-05
+dimension,pix,IT,0.532,0.611,0.667
+dimension,V4,IT,-5.17,0.00129,0.00194
+corr.,pix,V4,-7.4,1.5e-04,4.5e-04
+corr.,pix,IT,-9.09,4.0e-05,2.4e-04
+corr.,V4,IT,-1.6,0.154,0.205
+SSF,pix,V4,7.5,1.4e-04,4.5e-04
+SSF,pix,IT,6.71,2.7e-04,5.5e-04
+SSF,V4,IT,-1.44,0.192,0.231
+SNF,pix,V4,0.0561,0.957,0.957
+SNF,pix,IT,-6.5,3.3e-04,5.7e-04
+SNF,V4,IT,-6.84,2.4e-04,5.5e-04
