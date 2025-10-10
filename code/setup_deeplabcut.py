@@ -3,7 +3,7 @@ import os
 # !!!
 # UPDATE THIS WITH OUTPUT DIRECTORY
 # !!!
-outdir = "/mnt/home/wslatton/ceph/fig-6-deeplabcut/"
+outdir = "/mnt/home/wslatton/ceph/reprod_population_geom_opt_coding/results/"
 
 current_file_path = os.path.abspath(__file__)
 project_root_path = os.path.dirname(os.path.dirname(current_file_path))
