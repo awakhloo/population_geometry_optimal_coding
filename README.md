@@ -29,6 +29,11 @@ Next edit the field `outdir` at the top of the script `code/setup_deeplabcut.py`
 
 The results for all analyses are included in the repository. However, the deeplabcut model representations and GLM results are somewhat large. If you would like to use these results without running the analyses yourself, you must install `git-lfs` before cloning this repository (or call `git lfs pull` to manually download if you have already cloned the reposoitory before installing LFS). 
 
+### DOI 
+
+[![DOI](https://zenodo.org/badge/1072445857.svg)](https://doi.org/10.5281/zenodo.17315549)
+
+
 ### references
 
 [1] Wakhloo A, Slatton W, Chung SY, *Neural population geometry and optimal coding of tasks with shared latent structure* (2024)
